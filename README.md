@@ -1,2 +1,1 @@
-# VIRTUAL-PET-----1
-MADE IN VISUAL STUDIO CODE
+# Virtual-Pet-1
